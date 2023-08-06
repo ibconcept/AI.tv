@@ -1,5 +1,4 @@
 AI.tv - Real-time SVG-based Video Generation with ML and Neural Nets
-
 AI.tv Logo
 
 Description:
